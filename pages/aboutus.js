@@ -29,41 +29,37 @@ const aboutus = () => {
 
                         <div>
                             <h3>Social Media Links</h3>
-                            <p className='social'>
+                            <div className='social1'>
+
+
                                 <a href='https://www.facebook.com/profile.php?id=100085423490389'><BsFacebook /></a>
-                                <br></br>
-                                <br></br>
+
 
                                 <a href='https://www.instagram.com/buraaqmart/'><AiFillInstagram /></a>
-                                <br></br>
-                                <br></br>
+
 
                                 <a href='https://twitter.com/Buraaqmart'><AiOutlineTwitter /></a>
-                                <br></br>
-                                <br></br>
+
                                 <a href='https://www.linkedin.com/in/buraaq-llc-509976261/'><BsLinkedin /></a>
-                            </p>
+                            </div>
                         </div>
                         <div>
                             <h3>Pages</h3>
-                            <p className='social'>
+                            <div className='social1'>
 
                                 <Link href="/refundpolicy">- Refund Policy</Link>
-                                <br></br>
-                                <br></br>
+                                
 
                                 <Link href="/terms&condition">- Terms and Condition</Link>
 
-                                <br></br>
-                                <br></br>
+                                
 
 
                                 <Link href="/contact_us">- Contact Us</Link>
-                                <br></br>
-                                <br></br>
+                              
                                 <Link href="/">- Shop</Link>
 
-                            </p>
+                            </div>
                         </div>
                     </div>
 

@@ -31,25 +31,22 @@ const contactUs = () => {
             Address:  7901 4th St STE 300 Petersburg , Florida , USA
             <br></br>
             <br></br>
-            <p className='social'>
+            <div className='social'>
 
 
               <a href='https://www.facebook.com/profile.php?id=100085423490389'><BsFacebook /></a>
-              <br></br>
-              <br></br>
+              
 
               <a href='https://www.instagram.com/buraaqmart/'><AiFillInstagram /></a>
-              <br></br>
-              <br></br>
+              
 
               <a href='https://twitter.com/Buraaqmart'><AiOutlineTwitter /></a>
-              <br></br>
-              <br></br>
+              
               <a href='https://www.linkedin.com/in/buraaq-llc-509976261/'><BsLinkedin /></a>
-            </p>
+            </div>
           </div>
           <div>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3527.8755282648285!2d-82.64073382539723!3d27.844363469436512!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s7901%204th%20St%20STE%20300%20Petersburg!5e0!3m2!1sen!2s!4v1683649721090!5m2!1sen!2s" width="600" height="450" style={{ border: 0 }} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3527.8755282648285!2d-82.64073382539723!3d27.844363469436512!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s7901%204th%20St%20STE%20300%20Petersburg!5e0!3m2!1sen!2s!4v1683649721090!5m2!1sen!2s" className='map' style={{ border: 0 }} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div>
         </div>
       </div>
